@@ -1,0 +1,8 @@
+# .gitignore
+secret.key
+aes_secure_data.db
+__pycache__/
+dist/
+build/
+*.spec
+*.pyc
